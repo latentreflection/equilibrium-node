@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="equilibrium-node.png" width="240" alt="Equilibrium Node symbol" />
+</p>
+
+# Equilibrium Node
+
+There is a point where structure meets silence.
+...
+
+
 # Equilibrium Node
 
 There is a point where structure meets silence.
